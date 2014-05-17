@@ -1,3 +1,5 @@
+;; This is a test project during the kcdc14 conference.
+
 (require '[clojure.java.io :as io])
 
 (with-open [rdr (io/reader "test.txt")]
